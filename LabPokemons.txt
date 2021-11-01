@@ -1,0 +1,10 @@
+155,Cyndaquil,2
+2,Ivysaur,1
+153,Bayleef,2
+4,Charmander,1
+152,Rhikorita,1
+409,Rampardos,37
+646,Kyurem,152
+95,Onik,95
+150,Mewtwo,150
+260,Swapert,260
